@@ -13,7 +13,7 @@ from subprocess import call
 import os
 
 # path to vscode
-VSCODE = 'code'
+VSCODE = 'code-insiders'
 
 # what name do you want to see in the context menu?
 VSCODENAME = 'Code'
